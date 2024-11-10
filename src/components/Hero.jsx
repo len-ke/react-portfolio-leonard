@@ -1,5 +1,5 @@
 
-import profilePic from "../assets/LeonRushprofile.png"
+import profilePic from "../assets/LeonRushProfile.png"
 import {HERO_CONTENT} from "../constants";
 import { motion } from  "framer-motion";
 
